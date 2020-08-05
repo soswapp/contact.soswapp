@@ -1,0 +1,20 @@
+{
+    "name": "soswapp/contact.soswapp",
+    "description": "Contact us - web app",
+    "keywords": ["php", "javascript","7","seven","os","web","contact","us"],
+    "homepage": "https://github.com/soswapp/contact.soswapp",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Ikechukwu Okalia",
+            "email": "dev@ikechukwuokalia.com"
+        },
+        {
+            "name": "Tym Frontiers Ltd.",
+            "email": "dev@tymfrontiers.com"
+        }
+    ],
+    "require": {},
+    "require-dev": {}
+}
